@@ -40,8 +40,4 @@ defmodule ElixirKata do
     end)
   end
 
-  def reverse_string_5(string) do
-    string
-    |>
-  end
 end
